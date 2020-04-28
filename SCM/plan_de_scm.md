@@ -13,10 +13,14 @@ Especificado en archivo word dentro de carpeta SCM
 ## 4. Estructura de Directorios
 ISW-GRUPO-4-2020
 ├───Clases
-| ├─── Teórico | | └───Diapositivas | | └───Trabajos Prácticos conceptuales
+| ├─── Teórico 
+| |     └───Diapositivas 
+| |     └───Trabajos Prácticos conceptuales
 | |
-| |
-| ├───Practico | | └───Trabajos prácticos | | └─── Evaluables | | └───No Evaluables
+| ├───Practico 
+| |     └───Trabajos prácticos
+| |               └─── Evaluables 
+| |               └───No Evaluables
 | ├─── Links videos
 |
 ├───Bibliografía
